@@ -228,6 +228,7 @@ You can also check out the following resources:
 - [Index.dev](https://index.dev/) - AI-powered platform for software talent.
 - [Jobs in Flutter](https://jobsinflutter.com) - Marketplace for Flutter and Dart roles.
 - [Jobs in Rust](https://jobsinrust.com) - Marketplace for Rust engineering roles.
+- [Fresh Commits](https://www.freshcommits.com) - Verified US entry-level (0-2 YoE) tech jobs across software engineering, data, QA, and product.
 
 ## Remote
 
