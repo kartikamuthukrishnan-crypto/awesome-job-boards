@@ -537,6 +537,7 @@ You can also check out [open-source-jobs](https://github.com/timqian/open-source
 - [Library Jobs HQ](https://www.libraryjobshq.com/)
 - [FoundRole](https://foundrole.com/) - AI-powered job search platform and job application tracker for knowledge workers.
 - [USDevJobs](https://usdevjobs.com/) - Real-time job aggregator for software, AI/ML, and data engineer roles at US startups.
+- [Fresh Commits](https://www.freshcommits.com) - Verified US entry-level (0-2 YoE) tech jobs across software engineering, data, QA, and product.
 
 ### Australia
 
